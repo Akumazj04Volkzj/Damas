@@ -1,0 +1,61 @@
+C:\Users\Sérgio\Documents\utad 1º sem-_1ºano\2º ano\SEMESTRE 2\lab\LabDamasS01\LabDamasS01\obj\Debug\LabDamasS01.View_Login.resources
+C:\Users\Sérgio\Documents\utad 1º sem-_1ºano\2º ano\SEMESTRE 2\lab\LabDamasS01\LabDamasS01\obj\Debug\LabDamasS01.Properties.Resources.resources
+C:\Users\Sérgio\Documents\utad 1º sem-_1ºano\2º ano\SEMESTRE 2\lab\LabDamasS01\LabDamasS01\obj\Debug\LabDamasS01.View_MenuInicial.resources
+C:\Users\Sérgio\Documents\utad 1º sem-_1ºano\2º ano\SEMESTRE 2\lab\LabDamasS01\LabDamasS01\obj\Debug\LabDamasS01.View_Perfil.resources
+C:\Users\Sérgio\Documents\utad 1º sem-_1ºano\2º ano\SEMESTRE 2\lab\LabDamasS01\LabDamasS01\obj\Debug\LabDamasS01.View_Registo.resources
+C:\Users\Sérgio\Documents\utad 1º sem-_1ºano\2º ano\SEMESTRE 2\lab\LabDamasS01\LabDamasS01\obj\Debug\LabDamasS01.View_Regras.resources
+C:\Users\Sérgio\Documents\utad 1º sem-_1ºano\2º ano\SEMESTRE 2\lab\LabDamasS01\LabDamasS01\obj\Debug\LabDamasS01.csproj.GenerateResource.cache
+C:\Users\Sérgio\Documents\utad 1º sem-_1ºano\2º ano\SEMESTRE 2\lab\LabDamasS01\LabDamasS01\obj\Debug\LabDamasS01.csproj.CoreCompileInputs.cache
+C:\Users\Sérgio\Documents\utad 1º sem-_1ºano\2º ano\SEMESTRE 2\lab\LabDamasS01\LabDamasS01\bin\Debug\LabDamasS01.exe.config
+C:\Users\Sérgio\Documents\utad 1º sem-_1ºano\2º ano\SEMESTRE 2\lab\LabDamasS01\LabDamasS01\bin\Debug\LabDamasS01.exe
+C:\Users\Sérgio\Documents\utad 1º sem-_1ºano\2º ano\SEMESTRE 2\lab\LabDamasS01\LabDamasS01\bin\Debug\LabDamasS01.pdb
+C:\Users\Sérgio\Documents\utad 1º sem-_1ºano\2º ano\SEMESTRE 2\lab\LabDamasS01\LabDamasS01\obj\Debug\LabDamasS01.exe
+C:\Users\Sérgio\Documents\utad 1º sem-_1ºano\2º ano\SEMESTRE 2\lab\LabDamasS01\LabDamasS01\obj\Debug\LabDamasS01.pdb
+C:\Users\Sérgio\Documents\utad 1º sem-_1ºano\2º ano\SEMESTRE 2\lab\LabDamasS01\LabDamasS01\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Sérgio\Documents\utad 1º sem-_1ºano\2º ano\SEMESTRE 2\lab\LabDamasS01\LabDamasS01\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Sérgio\Documents\utad 1º sem-_1ºano\2º ano\SEMESTRE 2\lab\LabDamasS01\LabDamasS01\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Sérgio\Documents\utad 1º sem-_1ºano\2º ano\SEMESTRE 2\lab\LabDamasS01\LabDamasS01\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Sérgio\Documents\utad 1º sem-_1ºano\2º ano\SEMESTRE 2\lab\LabDamasS01\LabDamasS01\obj\Debug\LabDamasS01.csproj.ResolveComReference.cache
+C:\Users\Sérgio\Documents\utad 1º sem-_1ºano\2º ano\SEMESTRE 2\lab\LabDamasS01\LabDamasS01\obj\Debug\LabDamasS01.View_Tabuleiro.resources
+C:\Users\Flavio\Desktop\Flavio\LabDamasS01\LabDamasS01\bin\Debug\LabDamasS01.exe.config
+C:\Users\Flavio\Desktop\Flavio\LabDamasS01\LabDamasS01\bin\Debug\LabDamasS01.exe
+C:\Users\Flavio\Desktop\Flavio\LabDamasS01\LabDamasS01\bin\Debug\LabDamasS01.pdb
+C:\Users\Flavio\Desktop\Flavio\LabDamasS01\LabDamasS01\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Flavio\Desktop\Flavio\LabDamasS01\LabDamasS01\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Flavio\Desktop\Flavio\LabDamasS01\LabDamasS01\obj\Debug\LabDamasS01.csprojAssemblyReference.cache
+C:\Users\Flavio\Desktop\Flavio\LabDamasS01\LabDamasS01\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Flavio\Desktop\Flavio\LabDamasS01\LabDamasS01\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Flavio\Desktop\Flavio\LabDamasS01\LabDamasS01\obj\Debug\LabDamasS01.csproj.ResolveComReference.cache
+C:\Users\Flavio\Desktop\Flavio\LabDamasS01\LabDamasS01\obj\Debug\LabDamasS01.View_Login.resources
+C:\Users\Flavio\Desktop\Flavio\LabDamasS01\LabDamasS01\obj\Debug\LabDamasS01.Properties.Resources.resources
+C:\Users\Flavio\Desktop\Flavio\LabDamasS01\LabDamasS01\obj\Debug\LabDamasS01.View_MenuInicial.resources
+C:\Users\Flavio\Desktop\Flavio\LabDamasS01\LabDamasS01\obj\Debug\LabDamasS01.View_Perfil.resources
+C:\Users\Flavio\Desktop\Flavio\LabDamasS01\LabDamasS01\obj\Debug\LabDamasS01.View_Registo.resources
+C:\Users\Flavio\Desktop\Flavio\LabDamasS01\LabDamasS01\obj\Debug\LabDamasS01.View_Regras.resources
+C:\Users\Flavio\Desktop\Flavio\LabDamasS01\LabDamasS01\obj\Debug\LabDamasS01.View_Tabuleiro.resources
+C:\Users\Flavio\Desktop\Flavio\LabDamasS01\LabDamasS01\obj\Debug\LabDamasS01.csproj.GenerateResource.cache
+C:\Users\Flavio\Desktop\Flavio\LabDamasS01\LabDamasS01\obj\Debug\LabDamasS01.csproj.CoreCompileInputs.cache
+C:\Users\Flavio\Desktop\Flavio\LabDamasS01\LabDamasS01\obj\Debug\LabDamasS01.exe
+C:\Users\Flavio\Desktop\Flavio\LabDamasS01\LabDamasS01\obj\Debug\LabDamasS01.pdb
+E:\Trabalhos\UTAD\2 ano\Lab c#\Trabalho_\LabDamasS01\LabDamasS01\LabDamasS01\obj\Debug\LabDamasS01.csprojAssemblyReference.cache
+E:\Trabalhos\UTAD\2 ano\Lab c#\Trabalho_\LabDamasS01\LabDamasS01\LabDamasS01\obj\Debug\Interop.AcroPDFLib.dll
+E:\Trabalhos\UTAD\2 ano\Lab c#\Trabalho_\LabDamasS01\LabDamasS01\LabDamasS01\obj\Debug\AxInterop.AcroPDFLib.dll
+E:\Trabalhos\UTAD\2 ano\Lab c#\Trabalho_\LabDamasS01\LabDamasS01\LabDamasS01\obj\Debug\LabDamasS01.csproj.ResolveComReference.cache
+E:\Trabalhos\UTAD\2 ano\Lab c#\Trabalho_\LabDamasS01\LabDamasS01\LabDamasS01\obj\Debug\LabDamasS01.exe
+E:\Trabalhos\UTAD\2 ano\Lab c#\Trabalho_\LabDamasS01\LabDamasS01\LabDamasS01\obj\Debug\LabDamasS01.pdb
+E:\Trabalhos\UTAD\2 ano\Lab c#\Trabalho_\LabDamasS01\LabDamasS01\LabDamasS01\bin\Debug\LabDamasS01.exe.config
+E:\Trabalhos\UTAD\2 ano\Lab c#\Trabalho_\LabDamasS01\LabDamasS01\LabDamasS01\bin\Debug\LabDamasS01.exe
+E:\Trabalhos\UTAD\2 ano\Lab c#\Trabalho_\LabDamasS01\LabDamasS01\LabDamasS01\bin\Debug\LabDamasS01.pdb
+E:\Trabalhos\UTAD\2 ano\Lab c#\Trabalho_\LabDamasS01\LabDamasS01\LabDamasS01\bin\Debug\Interop.AcroPDFLib.dll
+E:\Trabalhos\UTAD\2 ano\Lab c#\Trabalho_\LabDamasS01\LabDamasS01\LabDamasS01\bin\Debug\AxInterop.AcroPDFLib.dll
+E:\Trabalhos\UTAD\2 ano\Lab c#\Trabalho_\LabDamasS01\LabDamasS01\LabDamasS01\obj\Debug\LabDamasS01.View_Login.resources
+E:\Trabalhos\UTAD\2 ano\Lab c#\Trabalho_\LabDamasS01\LabDamasS01\LabDamasS01\obj\Debug\LabDamasS01.Properties.Resources.resources
+E:\Trabalhos\UTAD\2 ano\Lab c#\Trabalho_\LabDamasS01\LabDamasS01\LabDamasS01\obj\Debug\LabDamasS01.View_MenuInicial.resources
+E:\Trabalhos\UTAD\2 ano\Lab c#\Trabalho_\LabDamasS01\LabDamasS01\LabDamasS01\obj\Debug\LabDamasS01.View_Perfil.resources
+E:\Trabalhos\UTAD\2 ano\Lab c#\Trabalho_\LabDamasS01\LabDamasS01\LabDamasS01\obj\Debug\LabDamasS01.View_Registo.resources
+E:\Trabalhos\UTAD\2 ano\Lab c#\Trabalho_\LabDamasS01\LabDamasS01\LabDamasS01\obj\Debug\LabDamasS01.View_Regras.resources
+E:\Trabalhos\UTAD\2 ano\Lab c#\Trabalho_\LabDamasS01\LabDamasS01\LabDamasS01\obj\Debug\LabDamasS01.View_Tabuleiro.resources
+E:\Trabalhos\UTAD\2 ano\Lab c#\Trabalho_\LabDamasS01\LabDamasS01\LabDamasS01\obj\Debug\LabDamasS01.csproj.GenerateResource.cache
+E:\Trabalhos\UTAD\2 ano\Lab c#\Trabalho_\LabDamasS01\LabDamasS01\LabDamasS01\obj\Debug\LabDamasS01.csproj.CoreCompileInputs.cache
+E:\Trabalhos\UTAD\2 ano\Lab c#\Trabalho_\LabDamasS01\LabDamasS01\LabDamasS01\bin\Debug\Database1.mdf
+E:\Trabalhos\UTAD\2 ano\Lab c#\Trabalho_\LabDamasS01\LabDamasS01\LabDamasS01\bin\Debug\Database1_log.ldf
